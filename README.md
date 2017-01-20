@@ -1,6 +1,8 @@
 # V2I-Traffic-Light-Demonstrator
 V2I Traffic Light Demonstrator (vehicle-to-infrastructure)
 
+01.2017, Embedded Computing Master @ Munich University of Applied Science [MUAS](https://www.hm.edu/en/index.en.html)
+
 [Project webpage](https://shreaker.github.io/V2I-Traffic-Light-Demonstrator/)
 
 ## Thesis
