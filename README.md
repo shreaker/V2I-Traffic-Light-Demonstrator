@@ -32,6 +32,7 @@ For the configuration of Wifi (password), network etc. see cross-compile-libs.sh
 
 ## Android App / Interacting with Traffic Light Application
 - Optimized for 5.2" 1920 × 1080 Pixel (e.g. Nexus 5X)
+- Android version 6, 7 or higher required
 - Build with Android Studio 
 - Screenshot:
 
