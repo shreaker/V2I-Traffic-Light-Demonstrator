@@ -13,3 +13,9 @@ Steps for building the traffic light application:
 6. You should now have a Raspbian image in /tmp. Store it somewhere, where it won't get deleted
 7. Use *Raspberry_App/toolchain-build/mount-raspbian.sh* to mount it
 8. Use CMake for building:
+```
+cd Raspberry_App/TrafficLight
+mkdir build && cd build
+cmake -D CMAKE_TOOLCHAIN_FILE="/path/to/rpi-toolchain.cmake" -D PIROOT="/path/to/rasp-pi-rootfs" -D TOOLCHAIN="/path/to/gcc-linaro-4.9-2016.02-x86_64_arm-linux-gnueabihf" ..
+make
+```

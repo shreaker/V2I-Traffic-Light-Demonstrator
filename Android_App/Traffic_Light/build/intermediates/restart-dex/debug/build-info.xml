@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="24"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1420146324967"
+    token="5759103200133754350"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="1186133429214"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/outputs/apk/Traffic_Light-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1420146324967"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>

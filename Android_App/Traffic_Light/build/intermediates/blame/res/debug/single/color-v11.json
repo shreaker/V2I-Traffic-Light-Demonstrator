@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:baselineAligned="false">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.04">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="0.02"
+            android:layout_below="@+id/btnRequestGreenLong"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+        />
+
+        <ImageButton
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:id="@+id/btnEmergency"
+            android:layout_weight="0.04"
+            android:scaleType="fitCenter"
+            android:visibility="visible"
+            android:elevation="0dp"
+            android:background="@drawable/emergency_btn"
+            android:layout_marginTop="19dp"
+            android:layout_below="@+id/textView99"
+            android:layout_centerHorizontal="true" />
+
+        <ImageButton
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:id="@+id/btnPublicTransport"
+            android:visibility="visible"
+            android:background="@drawable/public_transport_btn"
+            android:scaleType="fitCenter"
+            android:layout_below="@+id/textView3"
+            android:layout_alignStart="@+id/btnEmergency"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="9dp" />
+
+        <TextView
+            android:text="Switch all traffic lights to red"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView99"
+            android:layout_weight="0.04"
+            android:textStyle="normal|bold"
+            android:textAlignment="center"
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/textView"
+            android:layout_toEndOf="@+id/textView"
+            tools:ignore="UnknownId" />
+
+        <TextView
+            android:text="Priority for public transport"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.04"
+            android:textStyle="normal|bold"
+            android:id="@+id/textView3"
+            android:textAlignment="center"
+            android:layout_below="@+id/btnEmergency"
+            android:layout_toEndOf="@+id/textView"
+            android:layout_marginTop="31dp"
+            tools:ignore="UnknownId" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="0.02"
+            android:layout_below="@+id/btnPublicTransport"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtView_ErrorMsg"
+            android:textSize="18sp"
+            android:textAlignment="center"
+            android:layout_marginBottom="35dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:textColor="@color/colorAccent" />
+    </RelativeLayout>
+
+</LinearLayout>

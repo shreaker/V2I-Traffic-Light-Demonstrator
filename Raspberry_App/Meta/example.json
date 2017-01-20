@@ -1,0 +1,16 @@
+#http://10.5.0.1:8080/json?request=status
+{"response":{"car_state":"red","cars":0,"estimated_waiting_time":0,"pedestrian_state":"red","traffic_light_period":10},"status":200}
+
+#http://10.5.0.1:8080/json?request=pedestrian&duration=normal
+#http://10.5.0.1:8080/json?request=pedestrian&duration=extended
+#http://10.5.0.1:8080/json?request=priority&type=emergency
+#http://10.5.0.1:8080/json?request=priority&type=public_transport
+#http://10.5.0.1:8080/json?request=charge&id=X
+#http://10.5.0.1:8080/json?request=car_debug&detect=1
+#http://10.5.0.1:8080/json?request=car_debug&enable=true
+
+{"response":"ok","status":200}
+
+######
+#invalid commands:
+{"response":"Unknown command.","status":400}

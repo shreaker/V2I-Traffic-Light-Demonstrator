@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_11486cc65e9fde2389d5952a04dc1af7626ae595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Development/Android_SDK/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_f8716f4abdd515a5d0b4dd099384b7dcc6133c84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_ca5ec5d03a2d4927e1b8f5f42091e36d4993f6a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b4d913bc06350a3c189eac341cf2790f2869c5c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/gson-2.6.1_abd8e9d8b4fb45e41714c80182754df6ffb9ad71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_888d5eb8887b35cceae30b53e279f1de305d7cc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b142e99a137613be8b95ba68c66e15c60e2ff87d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_aebb184f6b7479cb881209e2971f159656f2b5bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_35fa78c8550b70c6005e6888795e54e475c66609.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_b390844416ff0a240bfe4dad24de0fe7065c858a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5cc24f4d5f86373518c60230d5554ed2a72475b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/retrofit-2.0.2_601ad190d085a1e5761bf1376bbcf8184908c50c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2c8b9ade17c474bc80653376cde524fd60bfaa4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/okio-1.6.0_50c2efe9284c0f64a2e5753357e0522d01c16484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/okhttp-3.2.0_0910ba27f5b72029e671486877ee662e749c0db6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_e8a96c07be075c426459f6c4a62d33a9b7d25fcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_9b7ae115c71f4f09eefb91da81366adf39a0df76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_cf2c41536d676ff96f06dc6ffff0cc14561393f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_db70eb3400a36be781ad344abdf53ab00d82f6cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_c20e1380b84134f593e4f9502e9327f004dad01e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+#get every 3rd frame from background video for negatives
+ffmpeg -i input -vf "select=not(mod(n\,3))" -vsync vfr  img_%03d.png
+
+#put sample data in folder "samples"
+#run create_vector.sh
+#create folder haarcascade
+
+opencv_traincascade -data haarcascade -vec samples.vec -bg negatives.dat -numThreads 8 -numStages 20 -minHitRate 0.999 -maxFalseAlarmRate 0.5 -w 60 -h 60 -precalcIdxBufSize 4096 -precalcValBufSize 4096 -featureType LBP -acceptanceRatioBreakValue 10e-5

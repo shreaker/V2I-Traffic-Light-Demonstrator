@@ -1,0 +1,4 @@
+#Fri Jan 20 13:36:56 CET 2017
+base.0=/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/shreaker/Studium/Master_2/Hauptseminar/gitHub/Hauptseminar/Android_App/Traffic_Light/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

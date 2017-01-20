@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_weight="0.02" />
+
+    <TextView
+        android:text="Traffic light status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtView_static_status"
+        android:layout_weight="0.02"
+        android:textStyle="normal|bold" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="225dp"
+        app:srcCompat="@drawable/red_light"
+        android:id="@+id/tab1_trafficLight_ImageView"
+        android:layout_weight="0.02"
+        android:scaleType="fitCenter" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:text="Time left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtView_static_TimeLeft"
+        android:layout_weight="0.02"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtView_TimeLeft"
+        android:layout_weight="0.02"
+        android:textSize="36sp"
+        android:textAlignment="center"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:text="Next phase time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtView_static_PhaseTime"
+        android:layout_weight="0.02"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtView_PhaseTime"
+        android:layout_weight="0.02"
+        android:textSize="36sp"
+        android:textAlignment="center"
+        android:textStyle="normal|bold" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="0.02" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtView_ErrorMsg"
+        android:layout_weight="0.02"
+        android:textSize="18sp"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent" />
+
+</LinearLayout>
