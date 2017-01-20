@@ -29,6 +29,7 @@ mkdir build && cd build
 cmake -D CMAKE_TOOLCHAIN_FILE="/path/to/rpi-toolchain.cmake" -D PIROOT="/path/to/rasp-pi-rootfs" -D TOOLCHAIN="/path/to/gcc-linaro-4.9-2016.02-x86_64_arm-linux-gnueabihf" ..
 make
 ```
+
 For the configuration of Wifi (password), network etc. see cross-compile-libs.sh
 
 ### Statemachine Raspberry App
