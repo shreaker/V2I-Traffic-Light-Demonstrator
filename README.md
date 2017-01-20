@@ -1,5 +1,5 @@
 # V2I-Traffic-Light-Demonstrator
-V2I Traffic Light Demonstrator (vehicle-to-infrastructure)
+V2I Traffic Light Demonstrator (vehicle-to-infrastructure communication)
 
 01.2017, Embedded Computing Master @ Munich University of Applied Science [MUAS](https://www.hm.edu/en/index.en.html)
 
