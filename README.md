@@ -30,7 +30,7 @@ cmake -D CMAKE_TOOLCHAIN_FILE="/path/to/rpi-toolchain.cmake" -D PIROOT="/path/to
 make
 ```
 
-For the configuration of Wifi (password), network etc. see cross-compile-libs.sh
+- For the configuration of Wifi (password), network etc. see cross-compile-libs.sh
 
 ### Statemachine Raspberry App
 <img src="./Graphics/Statemachine_Raspberry_App.png" height="407" alt="Statemachine_Raspberry_App"/>
