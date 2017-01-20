@@ -1,6 +1,12 @@
 # V2I-Traffic-Light-Demonstrator
 V2I Traffic Light Demonstrator (vehicle-to-infrastructure)
 
+## Thesis
+[Thesis](Thesis_Presentation/thesis.pdf)
+
+## Presentation
+[Presentation](Thesis_Presentation/Presentation.pdf)
+
 ## Raspberry / Traffic Light Application
 Steps for building the traffic light application:
 
@@ -19,3 +25,18 @@ mkdir build && cd build
 cmake -D CMAKE_TOOLCHAIN_FILE="/path/to/rpi-toolchain.cmake" -D PIROOT="/path/to/rasp-pi-rootfs" -D TOOLCHAIN="/path/to/gcc-linaro-4.9-2016.02-x86_64_arm-linux-gnueabihf" ..
 make
 ```
+For the configuration of Wifi (password), network etc. see cross-compile-libs.sh
+
+### Statemachine Raspberry App
+<img src="./Graphics/Statemachine_Raspberry_App.png" height="407" alt="Statemachine_Raspberry_App"/>
+
+## Android App / Interacting with Traffic Light Application
+- Optimized for 5.2" 1920 × 1080 Pixel (e.g. Nexus 5X)
+- Build with Android Studio 
+- Screenshot:
+
+<img src="./Graphics/Android_App.png" height="407" alt="Android App screenshot"/>
+
+## Demonstrator
+<img src="./Graphics/demonstrator.jpeg" height="407" alt="Demonstrator"/>
+
