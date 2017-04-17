@@ -8,6 +8,9 @@ V2I Traffic Light Demonstrator (vehicle-to-infrastructure communication)
 ## Thesis
 [Thesis](Thesis_Presentation/thesis.pdf)
 
+##Use cases
+[Use case](Thesis_Presentation/usecases.pdf)
+
 ## Presentation
 [Presentation](Thesis_Presentation/Presentation.pdf)
 
