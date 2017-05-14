@@ -7,7 +7,7 @@ V2I Traffic Light Demonstrator (vehicle-to-infrastructure communication)
 [Project webpage](https://shreaker.github.io/V2I-Traffic-Light-Demonstrator/) 
 
 ## Paper
-[Paper](Thesis_Presentation/V2I_Paper.pdf)
+[Paper](Thesis_Presentation/V2I_Paper_Michael_Wolf_Skill_2017.pdf)
 
 ## Use cases
 [Use cases](Thesis_Presentation/usecases.pdf)
