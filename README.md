@@ -2,6 +2,7 @@
 V2I Traffic Light Demonstrator (vehicle-to-infrastructure communication)
 
 Embedded Computing Master @ Munich University of Applied Science [MUAS](https://www.hm.edu/en/index.en.html)
+
 Paper and project for [SKILL 2017](http://skill.informatik.uni-leipzig.de) @ [Leipzig University](https://www.uni-leipzig.de/en) 
 
 ## Project webpage
